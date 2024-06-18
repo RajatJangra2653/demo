@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "rg-1-Name": {
+            "value": "demo-rajat-02" 
+        },
+        "rg-1-Location": {
+            "value": "eastus" 
+        },
+        "rg-2-Name": {
+            "value": "demo-asr" 
+        },
+        "rg-2-Location": {
+            "value": "centralindia" 
+        },
+        "subscriptionID": {
+            "value": "0eeda99e-fb90-4625-8bf2-1984beea42c7" 
+        },
+        "adminUsername": {
+            "value": "rajat" 
+        },
+        "adminPassword": {
+            "value": "Rjangra#2021" 
+        },
+        "asr-name": {
+            "value": "demo-asr-rajat" 
+        }
+    }
+}
